@@ -1,4 +1,4 @@
-## hellooo 💗
+## hellooo 
 
 my name is Ysa (/ˈiːsə/)
 
