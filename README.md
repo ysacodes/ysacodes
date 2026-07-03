@@ -1,4 +1,7 @@
-## Hi there 👋
+## hellooo 💗
+
+my name is Ysa (/ˈiːsə/)
+
 
 <!--
 **ysacodes/ysacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
