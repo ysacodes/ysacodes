@@ -1,6 +1,14 @@
 ## hellooo~ 💗
 
-my name is Ysa (/ˈiːsə/)
+my name is Ysa (/ˈiːsə/)!  
+
+I'm a Data Science student based in Hong Kong.  
+
+
+Fun facts about me:
+- I have a parrot named Cala
+- I love drinking matcha lattes (and it's not a phase)
+- My favourite board game is Cataan
 
 
 <!--
